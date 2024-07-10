@@ -12,7 +12,7 @@ const port = 5000;
 app.use(bodyParser.json());
 
 const MODEL_NAME = "gemini-1.0-pro";
-const API_KEY = "AIzaSyA-Uj8vuoy4p6ewQ5NQ3pG7Tuiva4x0DME";
+const API_KEY = "GET UR PERSONAL API";
 
 // Fungsi untuk menjalankan obrolan dengan model generatif
 async function runChat(userInput) {
